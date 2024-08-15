@@ -1,4 +1,4 @@
-#FALP Fleet Battle © 2023 by Antlampas is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+#FALP Fleet Battle Tests © 2023-2024 by Antlampas is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
 
 cmake_minimum_required(VERSION 3.15)
 

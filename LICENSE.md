@@ -1,1 +1,1 @@
-FALP FleetBattle Tests © 2023 by Antlampas is licensed under CC BY-SA 4.0
+FALP FleetBattle Tests © 2023-2024 by Antlampas is licensed under CC BY-SA 4.0
