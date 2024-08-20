@@ -6,7 +6,10 @@ project(FleetBattleTests
         VERSION "${VERSION}"
         DESCRIPTION "Tests for FALP Fleet Battle"
         HOMEPAGE_URL "https://github.com/antlampas/FleetBattleTests"
-        LANGUAGES "CXX")
+        LANGUAGES "CXX"
+)
+
+set(CMAKE_CXX_STANDARD 20)
 
 include(CTest)
 include(FetchContent)
