@@ -2,14 +2,14 @@
 
 cmake_minimum_required(VERSION 3.15)
 
-project(FleetBattleTests
+set(CMAKE_CXX_STANDARD 20)
+
+project("Fleet Battle Tests"
         VERSION "${VERSION}"
         DESCRIPTION "Tests for FALP Fleet Battle"
         HOMEPAGE_URL "https://github.com/antlampas/FleetBattleTests"
         LANGUAGES "CXX"
 )
-
-set(CMAKE_CXX_STANDARD 20)
 
 include(CTest)
 include(FetchContent)
